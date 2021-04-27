@@ -53,7 +53,7 @@ namespace DataImporter.Api
       }
 
       app.UseRouting();
-      app.UseSwagger();
+
 
 
       app.UseAuthorization();

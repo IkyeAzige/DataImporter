@@ -67,7 +67,8 @@ namespace DataImporter.Api.Controllers
 
                 try
                 {
-                    ctx.SaveChanges();
+                    //comment out to save
+                    //ctx.SaveChanges();
                 }
                 catch (System.Exception ex)
                 {
