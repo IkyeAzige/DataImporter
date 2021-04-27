@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 100,
+    "Name": "Test Company 1",
+    "Path": "Company_100"
+  },
+  {
+    "Id": 200,
+    "Name": "Test Company 2",
+    "Path": "Company_200"
+  },
+  {
+    "Id": 300,
+    "Name": "Test Company 3",
+    "Path": "Company_300"
+  }
+]

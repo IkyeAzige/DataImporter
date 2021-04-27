@@ -1,0 +1,6 @@
+https://csvjson.com/csv2json
+
+Online tool to convert your CSV or TSV formatted data to JSON.
+1) Copy/paste or upload your Excel data (CSV or TSV) to convert it to JSON. 
+2) Set up options: parse numbers, transpose your data, or output an object instead of an array. 
+3) Convert and copy/paste back to your computer. 4) Save your result for later or for sharing.
